@@ -1,0 +1,18 @@
+.quote {
+    text-align: center;
+}
+
+.quote button {
+    cursor: pointer;
+    outline: none;
+    border: 1px solid #e25f5f;
+    background-color: #e25f5f;
+    color: #fff;
+    padding: 8px;
+}
+
+.quote button:focus,
+.quote button:hover {
+    border: 1px solid #e25f5f;
+    background-color: transparent;
+}
